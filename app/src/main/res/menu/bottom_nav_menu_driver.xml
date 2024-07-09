@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:tooltipText="Home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/menu_driver_home"/>
+    <item
+        android:title="QR Code"
+        android:tooltipText="QR Code"
+        android:icon="@drawable/ic_qr_code"
+        android:id="@+id/menu_driver_qrcode"/>
+    <item
+        android:title="Tricycle Queue"
+        android:tooltipText="Tricycle Queue"
+        android:icon="@drawable/ic_tricycle"
+        android:id="@+id/menu_driver_category"/>
+    <item
+        android:title="Notification"
+        android:tooltipText="Notification"
+        android:icon="@drawable/ic_notif"
+        android:id="@+id/menu_driver_notification"/>
+    <item
+        android:title="Settings"
+        android:tooltipText="Settings"
+        android:icon="@drawable/ic_settings"
+        android:id="@+id/menu_driver_settings"/>
+
+<!--    <item-->
+<!--        android:title="Join Queue"-->
+<!--        android:tooltipText="Queue"-->
+<!--        android:icon="@drawable/ic_queue"-->
+<!--        android:id="@+id/menu_driver_join_queue"/>-->
+
+</menu>
